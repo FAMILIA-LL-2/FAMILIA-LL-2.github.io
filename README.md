@@ -296,7 +296,7 @@ HTML
       { num: "93", contacto: "LIBRE", estado: "DISPONIBLE" }, 
       { num: "94", contacto: "LIBRE", estado: "DISPONIBLE" }, 
       { num: "95", contacto: "LIBRE", estado: "DISPONIBLE" }, 
-      { num: "96", contacto: "Kevin Correa", estado: "PAGO" }, 
+      { num: "96", contacto: "LIBRE", estado: "DISPONIBLE" }, 
       { num: "97", contacto: "LIBRE", estado: "DISPONIBLE" }, 
       { num: "98", contacto: "LIBRE", estado: "DISPONIBLE" }, 
       { num: "99", contacto: "LIBRE", estado: "DISPONIBLE" }, 
